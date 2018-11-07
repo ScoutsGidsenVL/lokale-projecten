@@ -11,18 +11,15 @@ Heb je zelf een idee maak dan een [issue](https://github.com/ScoutsGidsenVL/loka
 Veel groepen zouden graag een simulatie maken van hun sjoringen. Ben jij een krak die dat kan simuleren? Neem contact op met [Ploeg  IT](https://www.scoutsengidsenvlaanderen.be/ict-en-websites/ploeg-informatica)
 
 ### Inschrijving systeem voor evenementen
-Mosselsouper
-Spaghettifestijn
+[Ploeg  IT](https://www.scoutsengidsenvlaanderen.be/ict-en-websites/ploeg-informatica) heeft al vaak de vraag gekregen voor een gemakkelijk inschrijf systeem te maken voor een mosselsouper of spaghettifestijn? Kan jij andere groepen uit de nood helpen?
 
 ### Agenda app
-Agenda app voor de scouts agenda van de groep delen
-App dat de activiteiten van een groep toont (vb: momenteel wordt een overzicht met alle activiteiten per tak opgelijst in een driemaandelijks “tijdschrift”, hiervan wordt dan een pdf gemaakt en dit wordt zo op de website van een groep getoond dmv een embed via Issuu, bij wijzigingen moet de pdf opnieuw geüpload worden alvorens wijzigingen getoond worden op de website. ( https://www.scoutsheirbrug.be/sjorring )
-links naar bestaande projecten zoals totem app en ho app.
+App dat de activiteiten van een groep toont (vb: momenteel wordt een overzicht met alle activiteiten per tak opgelijst in een driemaandelijks “tijdschrift”, hiervan wordt dan een pdf gemaakt en dit wordt zo op de website van een groep getoond dmv een embed via Issuu, bij wijzigingen moet de pdf opnieuw geüpload worden alvorens wijzigingen getoond worden op de website. ( https://www.scoutsheirbrug.be/sjorring ). Contact opnemen met [Sven Onbekent](mailto:develop@scoutsheirbrug.be)
 
-### Modules
-modules voor scoutsgroep.be (foto integratie, inschrijvingsmodule, twitter overzicht, formulieren module, 
-lokalendatabank
+### Modules voor scoutsgroep.be
+Modules voor scoutsgroep.be maken zoals: foto integratie, inschrijvingsmodule, twitter overzicht, en formulieren module. Contact opnemen met [Ploeg  IT](https://www.scoutsengidsenvlaanderen.be/ict-en-websites/ploeg-informatica)
 
+### Lokalendatabank
 
 
 ## Projecten

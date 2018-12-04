@@ -26,3 +26,10 @@ Modules voor scoutsgroep.be maken zoals: foto integratie, inschrijvingsmodule, t
 | Naam        | Auteur | Uitleg |
 |:----------- |:------ |:------|
 | [Op Kamp](https://github.com/icecoldfire/opkamp)     | Stijn Goethals | Maak je persoonlijke "Ik ben op kamp" banner |
+
+
+## Projecten van de Ploeg 
+| Naam        | Uitleg |
+|:----------- |:------|
+| [HO-Gids](https://github.com/ScoutsGidsenVL/ho-gids-2019) | De mobiele app om HO te overleven |
+| [Totem app](https://github.com/ScoutsGidsenVL/Totemapp) | De befaamde totem app |

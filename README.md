@@ -1,6 +1,6 @@
 # Lokale projecten
 Lijst met leuke interessante lokale IT projecten en ideeën.
-Heb je zelf een idee? Stuur een mailtje naar ploeg.it@scoutsengidsenvlaanderen.be of doe een pull request.
+Heb je zelf een idee? Stuur een mailtje naar [ploeg.it@scoutsengidsenvlaanderen.be](mailto:ploeg.it@scoutsengidsenvlaanderen.be) of doe een pull request.
 
 ## Ideeën
 Kriebelen je vingers om mee te werken aan de IT in Scouts & Gidsen Vlaanderen? Maar weet je niet zo goed hoe je juist kan helpen? We verzamelen hier een lijst met alle ideeën!

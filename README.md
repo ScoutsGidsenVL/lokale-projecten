@@ -27,8 +27,8 @@ Modules voor scoutsgroep.be maken zoals: foto integratie, inschrijvingsmodule, t
 ## Projecten
 | Naam        | Auteur | Uitleg |
 |:----------- |:------ |:------|
-| [Op Kamp](https://github.com/icecoldfire/opkamp)     | Stijn Goethals | Maak je persoonlijke "Ik ben op kamp" banner |
-
+| [Op Kamp](https://github.com/icecoldfire/opkamp) | Stijn Goethals | Maak je persoonlijke "Ik ben op kamp" banner |
+| [Stambord (beta)](https://github.com/lennertderyck/stambord) | Webmasters Haegepoorters Destelbergen | Een digitale variant van de DL |
 
 ## Projecten van de Ploeg 
 | Naam        | Uitleg |

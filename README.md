@@ -35,3 +35,4 @@ Modules voor scoutsgroep.be maken zoals: foto integratie, inschrijvingsmodule, t
 |:----------- |:------|
 | [HO-Gids](https://github.com/ScoutsGidsenVL/ho-gids-2019) | De mobiele app om HO te overleven |
 | [Totemapp](https://github.com/ScoutsGidsenVL/Totemapp) | De befaamde totemapp |
+| [Stamhoofd](https://github.com/stamhoofd) | Gratis online inschrijvingen & ledenbeheer. |

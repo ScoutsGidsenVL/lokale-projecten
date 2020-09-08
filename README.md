@@ -28,7 +28,7 @@ Modules voor scoutsgroep.be maken zoals: foto integratie, inschrijvingsmodule, t
 | Naam        | Auteur | Uitleg |
 |:----------- |:------ |:------|
 | [Stamhoofd](https://github.com/stamhoofd) | Simon Backx | Gratis online inschrijvingen & ledenbeheer. |
-| [Op Kamp](https://github.com/icecoldfire/opkamp| Stijn Goethals | Maak je persoonlijke "Ik ben op kamp" banner |
+| [Op Kamp](https://github.com/icecoldfire/opkamp) | Stijn Goethals | Maak je persoonlijke "Ik ben op kamp" banner |
 
 
 ## Projecten van de Ploeg 
